@@ -1,0 +1,11 @@
+body{
+    background-color: rgba(138, 141, 185, 0.493);
+}
+ul li {
+    display: inline;
+}
+#ggg{
+    border: 2px solid red;
+    width:  500px;
+    height: 100vh;
+}
